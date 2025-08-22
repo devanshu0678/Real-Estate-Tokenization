@@ -58,3 +58,6 @@ The Real Estate Tokenization project has significant potential for expansion and
 
 ## Contract Address Details
 - **Contract Address**: ST2GW7D1W42XTZ7E5Z1ZC20XKVNGTDEDCRDB6K610.realstatetokenization
+
+## Screenshots
+<img width="1851" height="857" alt="image" src="https://github.com/user-attachments/assets/d52cff27-2eb4-48a9-8436-13c512144174" />
